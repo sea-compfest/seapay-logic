@@ -2,7 +2,6 @@ package com.seapay.domain.transaction.service;
 
 import com.seapay.api.transaction.TransactionService;
 import com.seapay.api.transaction.request.CreateTransactionRequest;
-import com.seapay.common.marshalling.Json;
 import com.seapay.domain.transaction.TransactionRepository;
 import com.seapay.domain.transaction.TransactionServiceImpl;
 import com.seapay.domain.transaction.entity.Transaction;
